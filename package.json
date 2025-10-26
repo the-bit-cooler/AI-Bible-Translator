@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
+    "translate": "dotnet run -- modern",
+    "resubmit": "dotnet run -- failed",
     "format": "dotnet format AI-Bible-Translator.sln",
     "prepare": "husky"
   },

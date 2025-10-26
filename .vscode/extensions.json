@@ -2,5 +2,6 @@
   "recommendations": [
     "ms-dotnettools.csdevkit",
     "aaron-bond.better-comments",
+    "streetsidesoftware.code-spell-checker",
   ]
 }
