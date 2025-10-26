@@ -2,7 +2,7 @@ using System.Text.Json;
 using ScripturAI.Models;
 using ScripturAI.Services;
 
-string task = args.Length > 0 ? args[0].ToLower() : "ScrollMapper";
+string task = args.Length > 0 ? args[0].ToLower() : string.Empty;
 switch (task)
 {
   case "modern":
